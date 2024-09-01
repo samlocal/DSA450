@@ -2,6 +2,7 @@
 // https://www.naukri.com/code360/problems/duplicate-in-array_893397
 
 #include<bits/stdc++.h>
+using namespace std;
 int findDuplicate(vector<int> &arr) 
 {
     // Approach 1
