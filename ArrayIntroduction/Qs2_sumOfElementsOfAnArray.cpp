@@ -1,3 +1,5 @@
+//question link
+// https://www.geeksforgeeks.org/problems/sum-of-array2326/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,3 +1,7 @@
+
+//question link
+// https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
