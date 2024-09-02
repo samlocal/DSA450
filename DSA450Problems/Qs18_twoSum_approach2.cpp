@@ -106,3 +106,4 @@ int main() {
         Solution obj;
         vector<vector<int>> res = obj.getPairs(arr);
        
+    }
